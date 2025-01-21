@@ -2,3 +2,5 @@
 .DS_Store
 backup
 chroma
+/chroma
+/chroma_bulk
